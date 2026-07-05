@@ -1,14 +1,45 @@
 # Cadeia de Pensamento (Chain of Thought)
 
-**Definição:** Faz a IA pensar passo a passo antes de responder.
-
-**Quando usar:** Quando deseja respostas mais profundas e bem justificadas.
+**Definição:** Cadeia de Pensamento é uma técnica em que você instrui a IA a pensar passo a passo antes de responder. O objetivo é forçar raciocínio lógico, estruturado e mais profundo, especialmente em problemas analíticos ou explicações complexas.
 
 ---
 
-**Exemplo:**
+## 🕒 Quando usar
 
-> "Pense passo a passo: qual seria a melhor arquitetura para um sistema de e-commerce com alta disponibilidade?"
+- Ao resolver problemas que envolvem lógica, análise, decisão ou explicação detalhada.
+- Quando precisa de respostas mais confiáveis, justificadas e bem construídas.
+- Em educação, estratégia, planejamento ou decisões técnicas.
+
+---
+
+## 🧩 Template
+
+```
+Pense passo a passo antes de responder.
+Mostre seu raciocínio por partes até chegar à conclusão.
+
+Liste cada etapa da lógica usada na sua resposta.
+
+Explique como chegou a essa conclusão, considerando todas as variáveis.
+```
+
+---
+
+## 💼 Exemplo
+
+```
+Estou considerando trocar meu sistema de gestão atual por um ERP na nuvem.
+Pense passo a passo antes de me dar uma recomendação.
+Analise os custos, benefícios, riscos e impacto na operação.
+```
+
+---
+
+## 🎯 Vantagens
+
+- Evita respostas superficiais.
+- Ajuda a entender o "porquê" por trás da resposta.
+- Traz mais clareza, lógica e confiabilidade.
 
 ---
 

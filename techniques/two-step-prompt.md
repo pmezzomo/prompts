@@ -1,15 +1,41 @@
 # Prompt de Dois Passos
 
-**Definição:** Divide a tarefa em dois passos: estruturação + execução.
-
-**Quando usar:** Quando precisa preparar a estrutura antes de gerar o conteúdo final.
+**Definição:** Prompt de Dois Passos é uma técnica em que você divide a tarefa em duas partes: primeiro, a IA prepara uma base ou estrutura; depois, você pede que ela gere a resposta final com base nessa base. O objetivo é evitar respostas rasas e construir conteúdo com mais clareza e profundidade.
 
 ---
 
-**Exemplo:**
+## 🕒 Quando usar
 
-> Passo 1: "Crie um esquema para um artigo sobre inteligência artificial."
-> Passo 2: "Agora escreva o artigo completo seguindo esse esquema."
+- Ao gerar conteúdos estruturados (artigos, planos, roteiros, apresentações).
+- Quando precisa que a IA pense antes de produzir.
+- Em tarefas que exigem organização, planejamento ou lógica.
+
+---
+
+## 🧩 Template
+
+```
+Passo 1: Liste os principais pontos / critérios / etapas sobre [tema].
+
+Passo 2: Agora desenvolva cada ponto em um parágrafo explicativo.
+```
+
+---
+
+## 💼 Exemplo
+
+```
+Passo 1: Liste os tópicos principais de uma apresentação sobre como melhorar a comunicação em equipes remotas.
+Passo 2: Agora escreva o conteúdo de cada tópico em até 100 palavras, com exemplos práticos.
+```
+
+---
+
+## 🎯 Vantagens
+
+- Garante clareza na construção do conteúdo.
+- Evita saltar direto para a resposta final sem pensar.
+- Ótimo para educação, planejamento e produção de materiais profissionais.
 
 ---
 
